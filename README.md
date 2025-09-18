@@ -7,11 +7,9 @@ To run this code, you'll need to install the following libraries:
 - matplotlib
 - seaborn
 
-You can install these libraries using pip:
-
-          bash
-          
-               pip install pandas scikit-learn matplotlib seaborn
+Install these libraries using pip:    
+  
+     pip install pandas scikit-learn matplotlib seaborn
 
 # What i built ?
 This project is a machine learning model that predicts survival outcomes for passengers on the Titanic based on various features such as age, sex, class, and more. The model utilizes a logistic regression algorithm to classify passengers as survivors or non-survivors.
